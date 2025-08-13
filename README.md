@@ -1,4 +1,5 @@
 #OOP Concepts
+
 This repository contains a collection of code examples that demonstrate the fundamentals of **Object-Oriented Programming (OOP)**.
 
 To better understand the following concepts in a logical progression, I created these examples as part of a **Udemy course**:
@@ -7,6 +8,7 @@ To better understand the following concepts in a logical progression, I created 
 - **Polymorphism:** A `Vehicle` class with a `show_info` method that is overridden by the `Cars` class.
 - **Encapsulation:** A `BankAccount` class with private attributes and controlled methods.
 
+I created all my code examples in **JupyterLab**.
 ***
 
 # Python OOP Konzepte
@@ -18,3 +20,5 @@ Ich habe diese Beispiele im Rahmen eines **Udemy-Kurses** erstellt, um die folge
 - **Vererbung:** Eine `Cars`-Klasse erbt von einer `Vehicle`-Klasse.
 - **Polymorphismus:** Eine `Vehicle`-Klasse mit einer `show_info`-Methode, die von der `Cars`-Klasse überschrieben wird.
 - **Kapselung:** Eine `BankAccount`-Klasse mit privaten Attributen und kontrollierten Methoden.
+  
+Ich habe alle meine Übungen in **JupyterLab** erstellt.
